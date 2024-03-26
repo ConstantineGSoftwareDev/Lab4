@@ -1,0 +1,41 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+            "name": "Chocolate Mint",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+            "image": "https://constantinegsoftwaredev.github.io/Lab4/images/chocolate-mint.svg"
+        }, {
+            "name": "Peach Mango",
+            "calories": 250,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "https://constantinegsoftwaredev.github.io/Lab4/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "milkshake",
+            "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base"],
+            "image": "https://constantinegsoftwaredev.github.io/Lab4/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Vanilla with Chocolet Sprinkles",
+            "calories": 315,
+            "type": " ice-cream",
+            "ingredients": ["Waffle Cone", "Chocolet Sprinkles", "Vanilla Base"],
+            "image": "https://constantinegsoftwaredev.github.io/Lab4/images/vanilla.svg"
+        },
+        {
+            "name": "Lime with Skittles",
+            "calories": 285,
+            "type": " ice-cream",
+            "ingredients": ["Waffle Cone", "Sour Skittles", "lime Base"],
+            "image": "https://constantinegsoftwaredev.github.io/Lab4/images/lime.svg"
+        }
+    ]
+}
